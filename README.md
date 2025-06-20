@@ -18,7 +18,8 @@
 ## 🧩 About Me
 
 I enjoy programming and solving problems through logic and creativity.  
-Math has always been a passion of mine, and I love exploring how it connects with code.  
+Math has always been a passion of mine, and I love exploring how it connects with code. 
+I've also learned about **Machine Learning** and **Natural Language Processing (NLP)**, and I'm excited to keep growing in those areas. 
 When I'm not coding, I enjoy **knitting**, **cooking**, and spending time with friends.
 
 ---
