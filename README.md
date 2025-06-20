@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mercedes Solorio (aka @heymeche)
 
 💻 Developer | Math Enthusiast | Creative Mind  
-📍 Based in [Your City, Country]  
+📍 Based in Guanajuato, Guanajuato
 🎯 Always curious, always learning  
 
 ---
