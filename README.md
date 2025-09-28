@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mercedes Solorio (aka @heymeche)
+# 👋 Hi, I'm Mercedes Solorio ( @heymeche)
 
 💻 Developer | Math Enthusiast | Creative Mind  
 📍 Based in Guanajuato, Guanajuato
