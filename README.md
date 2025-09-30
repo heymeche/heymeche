@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mercedes Solorio ( @heymeche)
 
 💻 Developer | Math Enthusiast | Creative Mind  
-📍 Based in Guanajuato, Guanajuato
+📍 Based in Morelia, Michoacán
 🎯 Always curious, always learning  
 
 ---
@@ -20,20 +20,19 @@
 I enjoy programming and solving problems through logic and creativity.  
 Math has always been a passion of mine, and I love exploring how it connects with code. 
 I've also learned about **Machine Learning** and **Natural Language Processing (NLP)**, and I'm excited to keep growing in those areas. 
-When I'm not coding, I enjoy **knitting**, **cooking**, and spending time with friends.
 
 ---
 
 <details open>
   <summary>🎓 Education:</summary>
 
-- 🎓 MSc in Applied Mathematics, Center for Research in Mathematics *(soon)*  
-- 🎓 BSc in Physical Mathematics, Universidad Michoacana de San Nicolás de Hidalgo
+-  MSc in Applied Mathematics, Center for Research in Mathematics *(soon)*  
+-  BSc in Physical Mathematics, Universidad Michoacana de San Nicolás de Hidalgo
 </details>
 
 ---
 
-## ✨ Projects
+
 
 🔸 **Coming soon!**  
 Stay tuned for my latest work — currently updating and uploading some of my projects.
