@@ -21,7 +21,7 @@ I've also learned about **Machine Learning** and **Natural Language Processing (
 <details open>
   <summary>🎓 Education:</summary>
 
--  MSc in Applied Mathematics, Center for Research in Mathematics *(soon)*  
+-  MSc in Applied Mathematics, Center for Research in Mathematics *(program completed)*  
 -  BSc in Physical Mathematics, Universidad Michoacana de San Nicolás de Hidalgo
 </details>
 
